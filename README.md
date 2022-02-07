@@ -1,4 +1,5 @@
-### Olá visitante 👋, meu nome é Paulo Ricardo Krachliwski. Seja bem-vindo ao meu perfil! 💻
+### Olá visitante 👋, meu nome é Paulo Ricardo Krachliwski.
+### Seja bem-vindo ao meu perfil! 💻
 
 - 🔭 No momento trabalho com XHarbour/Clipper e SQL
 - 🌱 Estudo atualmente React - HTML - CSS
