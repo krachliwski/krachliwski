@@ -4,7 +4,7 @@
 - 🔭 No momento trabalho com XHarbour/Clipper e SQL
 - 🌱 Estudo atualmente React - HTML - CSS
 - 📫 Pode entrar em contato através: paulo.krachliwski@gmail.com
-- ⚡ Amante dos games
+- ⚡ Amante dos games e dos esportes
 
 <div align="center">
   <a href="https://github.com/krachliwski">
