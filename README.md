@@ -1,9 +1,11 @@
 ### Olá visitante 👋, meu nome é Paulo Ricardo Krachliwski.
 ### Seja bem-vindo ao meu perfil! 💻
 
-- 🔭 No momento trabalho com XHarbour/Clipper e PostgreSQL
-- 🌱 Estudo atualmente React - HTML - CSS
-- 📫 Pode entrar em contato através: paulo.krachliwski@gmail.com
+- 🔭 Já trabalhei com:
+   -  XHarbour/Clipper e PostgreSQL
+   -  VueJS, CSS, PHP e MongoDB
+- 🌱 Atualmente atuo/estudo React - HTML - CSS - PHP - PostgreSQL
+- 📫 Contato através: paulo.krachliwski@gmail.com
 - ⚡ Entusiasta dos games e dos esportes
 
 <div align="center">
